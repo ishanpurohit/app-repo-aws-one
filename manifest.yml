@@ -1,0 +1,8 @@
+---
+dev:
+  account:
+    name: aws-dev
+    account_id: 098765432109
+    region: us-west-2
+  pattern-release: "<Get the Latest Release from the AWS-Pattern Repo>"
+uai: "<Your App uai>"
