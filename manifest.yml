@@ -1,9 +1,8 @@
 ---
 dev:
   account:
-    name: geren-highrisk1-preprod
-    account_id: 517778839912
+    name: aws-preprod
+    account_id: 817778839912
     region: us-east-1
   pattern-release: <Get Latest Release from the AWS-Pattern Repo>
 uai: uai123
-
