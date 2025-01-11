@@ -1,8 +1,8 @@
 ---
-dev:
+prd:
   account:
-    name: aws-dev
-    account_id: 098765432109
-    region: us-west-2
-  pattern-release: "<Get the Latest Release from the AWS-Pattern Repo>"
-uai: "<Your App uai>"
+    name: geren-highrisk1-prd
+    account_id: 137772451498
+    region: us-east-1
+  pattern-release: <Get Latest Release from the AWS-Pattern Repo>
+uai: uai123
